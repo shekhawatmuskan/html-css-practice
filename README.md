@@ -1,46 +1,33 @@
- # HTML & CSS Practice Repository
+# HTML & CSS Practice
 
-This repository contains a collection of **HTML & CSS practice files** that cover the fundamentals as well as advanced concepts.  
-It is designed for beginners and intermediates who want to **learn step by step** through code examples and one small project.  
+This is a **personal practice repository** for HTML and CSS. It’s also useful for anyone who wants to **learn the main HTML & CSS concepts**.
 
 ---
 
 ## 📚 Topics Covered
 
-Each topic is explained with **dedicated files** containing clear examples:
-
-1. **Semantic HTML** – Learn the importance of meaningful tags (`header`, `footer`, `article`, etc.).  
-2. **Forms & Validation** – Explore form elements and client-side validation techniques.  
-3. **CSS Flexbox** – Understand modern layout techniques with `display: flex`.  
-4. **CSS Grid** – Create powerful 2D layouts using `grid-template`, `rows`, and `columns`.  
-5. **CSS Positioning** – Practice `relative`, `absolute`, `fixed`, and `sticky`.  
-6. **Responsive Design** – Build layouts that adapt to all screen sizes with media queries.  
-7. **CSS Units** – Work with `px`, `%`, `em`, `rem`, `vh`, `vw`, etc.  
-8. **CSS Specificity & Cascade** – Learn how styles are applied and resolved in conflicts.  
+- Semantic HTML
+- Forms & Validation
+- CSS Flexbox
+- CSS Grid
+- CSS Positioning
+- Responsive Design
+- CSS Units
 
 ---
 
-## 🎯 Mini Project – Landing Page
+## 🎯 Mini Project
 
-A complete **Landing Page** project is included that combines all the above concepts:  
-- Proper HTML structure  
-- CSS layouts (Flexbox + Grid)  
-- Responsive design principles  
-- Styling with modern best practices  
+A small **Landing Page** project is included that uses **all the topics above**.
 
 ---
 
-## 🚀 How to Run the Files
+## 📝 Notes
 
-You can run individual files in two ways:
+This folder also contains my **handwritten theory notes** for reference.
 
-### 1. Using Live Server (Recommended)  
-- Install the **Live Server extension** in VS Code.  
-- Right-click on the file you want to open.  
-- Select **"Open with Live Server"** → It will launch in your default browser.  
+---
 
-### 2. Using Terminal Command  
-- Navigate to your project folder in terminal:  
-  ```bash
-  cd folder-name
+## 🚀 How to Run
 
+Open any file with **Live Server** in VS Code. Open **one file at a time** to see the best results.

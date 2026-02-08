@@ -66,14 +66,6 @@ Writing meaningful, accessible HTML using:
 
 A beautiful landing page for a natural beauty product brand, combining all learned concepts:
 
-**Features:**
-- Clean, modern design with warm color palette
-- Fully responsive layout
-- Product showcase with high-quality images
-- Clear call-to-action buttons
-- Navigation menu
-- Professional typography
-
 **Technologies Used:**
 - HTML5
 - CSS3
